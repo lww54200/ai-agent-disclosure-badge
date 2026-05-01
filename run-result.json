@@ -2,7 +2,7 @@
   "repo": "ai-agent-disclosure-badge",
   "title": "Annotated Benchmark of AI Agent Autonomy Restrictions",
   "type": "tooling",
-  "generated_at": "2026-05-01T01:27:12.598Z",
+  "generated_at": "2026-05-01T01:28:40.100Z",
   "status": "ready_for_review",
   "safety": {
     "noSecrets": true,
