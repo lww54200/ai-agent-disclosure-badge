@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent-disclosure-badge",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Annotated Benchmark of AI Agent Autonomy Restrictions",
+  "scripts": {
+    "test": "node validate.js",
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
